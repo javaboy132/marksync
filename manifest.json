@@ -9,6 +9,10 @@
 
 	"background":{
 		"scripts": ["marksync.js"]
-	}
+	},
+
+	"permissions":[
+		"bookmarks"
+	]
 
 }
