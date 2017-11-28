@@ -1,0 +1,14 @@
+{
+	"manifest_version":2,
+	"name": "marksync",
+	"version":"0.1",
+	"description": "Syncs your bookmarks between firefox and chrome.",
+	"icons":{
+		"48":"icons/icon-48.png"
+	},
+
+	"background":{
+		"scripts": ["marksync.js"]
+	}
+
+}
